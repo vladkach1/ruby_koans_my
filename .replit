@@ -1,4 +1,4 @@
-run = "bundle exec ruby rakelib/run.rake"
+run = "rake"
 hidden = [".bundle"]
 modules = ["ruby-3.2:v6-20240209-9e3a339"]
 
